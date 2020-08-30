@@ -8,13 +8,12 @@ class Education extends Component {
     return(
       <div>
           <Grid>
-            <Cell col ={4}> 
-            <p>{this.props.startYear} - {this.props.endYear} </p>
+ 
+            <Cell col ={12}> 
+            <p>{this.props.startYear} - {this.props.endYear} <h7 style={{marginTop: '0px'}}> {this.props.schoolDegree} </h7></p>
+            <h5 style={{marginTop: '0px'}}> {this.props.schoolName} </h5>
             
-            </Cell>
-            <Cell col ={8}> 
-            <h4 style={{marginTop: '0px'}}> {this.props.schoolName} </h4>
-             <p>
+             <p style={{textAlign: 'justify'}}>
              {this.props.schoolDescription}
              </p>
              </Cell>

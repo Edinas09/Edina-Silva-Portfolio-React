@@ -89,11 +89,21 @@
   font-size: 50px;
   padding-right: 2em;
 }
-
+.display-linebreak {
+  white-space: pre-line;
+}
 .resume-right-col {
+  
+  color: #243B55;
+  padding: 1em;
+  border-radius: 10px;
+}
+
+.resume-box{
   background: #243B55;
-color: white;
-padding: 2em;
+  color: white;
+  padding: 1em;
+  border-radius: 10px;
 }
 
   .avatar-img {

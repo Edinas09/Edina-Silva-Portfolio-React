@@ -16,18 +16,18 @@ class Landing extends Component {
             <div className="banner-text">
              <h1>Full Stack Developer</h1> 
             <hr />
-            <p>HTML/CSS | Bootstrap | JavaScript | React | React Native | NodeJS | Express | MongoDB</p>
+            <p>HTML/CSS | Bootstrap | JavaScript | React | NodeJS | Express | DataBase</p>
             <div className="social-links">
 
-              <a href="http://google.com" rel="noopener noreferrer"  target="_blank">
+              <a href="https://www.linkedin.com/in/edinanascimento/" rel="noopener noreferrer"  target="_blank">
               <i className="fa fa-linkedin-square" aria-hidden="true"/>
               </a>
 
-              <a href="http://google.com" rel="noopener noreferrer"  target="_blank">
+              <a href="https://github.com/Edinas09" rel="noopener noreferrer"  target="_blank">
               <i className="fa fa-github-square" aria-hidden="true"/>
               </a>
 
-              <a href="http://google.com" rel="noopener noreferrer"  target="_blank">
+              <a href="https://app.rocketseat.com.br/me/edina-silva-1594080133" rel="noopener noreferrer"  target="_blank">
               <i className="fa fa-rocket" aria-hidden="true"/>
               </a>
 
