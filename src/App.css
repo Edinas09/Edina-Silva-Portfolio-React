@@ -11,6 +11,7 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+  
 }
 
 .App-header {
@@ -132,7 +133,7 @@
   border-radius: 10px;
 }
 .banner-text h1{
-  font-size:  66px;
+  font-size:  3.2rem;
   font-weight: bold;
   color: white;
   text-align: center;
@@ -144,7 +145,7 @@
 }
 .banner-text p {
   color: white;
-  font-size: 20px;
+  font-size: 1.2rem;
   padding: 1em;
   text-align: center;
 }
