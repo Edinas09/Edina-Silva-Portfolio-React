@@ -109,20 +109,20 @@
 
   .avatar-img {
     vertical-align: middle;
-    width: 250px;
-    height: 250px;
+    width: 20rem;
+    height: 20rem;
     border-radius: 50%;
   }
   .avatar-img-contact {
     vertical-align: middle;
-    width: 250px;
-    height: 250px;
+    width: 20rem;
+    height: 20rem;
     border-radius: 10%;
   }
   .avatar-img-resume {
     vertical-align: middle;
-    width: 250px;
-    height: 250px;
+    width: 20rem;
+    height: 20rem;
     border-radius: 50%;
   }
 .banner-text {
