@@ -152,13 +152,17 @@
 .social-links {
   display: flex;
   justify-content: space-between;
-  width: 50%;
+  align-content: center;
+  width: 60%;
   margin: auto;
+ 
 }
 .social-links i {
   color: white;
-  font-size: 5em;
-  padding: 8px;
+  font-size: 4.2rem;
+  padding: 1.2rem;
+  align-content: center;
+  text-align: center;
 
 }
 .App-link {
