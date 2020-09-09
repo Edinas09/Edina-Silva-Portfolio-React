@@ -21,7 +21,7 @@ class Contact extends Component {
  
 
           <Cell col={6}>
-          <div className="contact-cell">
+          <div className="contact-cell-bellow">
             <h2>Contact Me</h2>
             <hr/>
             <div className="contact-list">
