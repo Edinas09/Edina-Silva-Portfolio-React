@@ -12,7 +12,7 @@ class Projects extends Component {
   toggleCategoris() {
         if (this.state.activeTab == 0){
           return (
-            <div className="projects-grid">
+            <div >
               <Card shadow={5} style={{minwidth: '450px', margin: 'auto'}}>
                   <CardTitle style={{color: '#fff', height: '176px', background: 'url(https://miro.medium.com/max/1400/0*7xhsdTCE-ikuWeAX.png) center / cover'}}>React Project #1</CardTitle>
                   <CardText>
@@ -100,17 +100,16 @@ class Projects extends Component {
         <Tab>FrontEnd</Tab>
         <Tab>BackEnd</Tab>
         </Tabs>
-
-        
-          <Grid>
-            <Cell col={12}>
+        <section className="projects-grid">
+          <Grid className="projects-grid">
+            <Cell col={4}>
               <div className="content">
                 {this.toggleCategoris()}
               </div>
             </Cell>
           </Grid>
           
-        
+        </section>
       </div>
     )
   }
