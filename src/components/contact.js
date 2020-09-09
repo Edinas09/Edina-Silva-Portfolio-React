@@ -21,27 +21,29 @@ class Contact extends Component {
  
 
           <Cell col={6}>
+          <div className="contact-cell">
             <h2>Contact Me</h2>
             <hr/>
             <div className="contact-list">
-              <List>
+              <List >
 
 
                 <ListItem>
-                  <ListItemContent style={{fontsize: '1.2rem', fontFamily: 'Anton',  color: '#fff'}}>
+                  <ListItemContent style={{fontsize: '1.2rem', fontFamily: 'Anton',  color: '#fff',   justifyContent: 'center'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
                       edinas09@gmail.com
                       </ListItemContent>
                 </ListItem>
 
                 <ListItem>
-                  <ListItemContent style={{fontsize: '1.2rem', fontFamily: 'Anton' ,  color: '#fff'}}>
+                  <ListItemContent style={{fontsize: '1.2rem', fontFamily: 'Anton' ,  color: '#fff',    justifyContent: 'center'}}>
                     <i className="fa fa-skype" aria-hidden="true"/>
                       edinas09
                       </ListItemContent>
                 </ListItem>
   
               </List>
+            </div>
             </div>
           </Cell>
         </Grid>

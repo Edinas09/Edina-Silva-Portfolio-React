@@ -77,10 +77,15 @@
   border-radius: 10px;
 
 }
+.contact-cell h2 {
+  padding-bottom: 0;
+  padding-top: 0;
+  margin:0;
+}
 
 .contact-grid h2 {
   font-family: 'Anton', sans-serif;
-  font-size: 2.9rem;
+  font-size: 2.8rem;
   margin-top: 0;
 }
 .contact-grid p {
@@ -94,9 +99,15 @@
   width: 50%;
   margin: auto;
 }
+.contact-list {
+  text-align: center;
+  justify-content: center !important;
+}
 .contact-list i {
-  font-size: 2.9rem;
-  padding-right: 2em;
+  font-size: 2.1rem;
+  padding-right: 1em;
+ 
+
 }
 .display-linebreak {
   white-space: pre-line;
