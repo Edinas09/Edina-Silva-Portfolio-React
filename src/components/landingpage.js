@@ -9,7 +9,7 @@ class Landing extends Component {
         <Grid className="landing-grid">
           <Cell col={12}>
             <img 
-              src="https://store.playstation.com/store/api/chihiro/00_09_000/container/BR/pt/999/UP1112-CUSA06917_00-AV00000000000099/1580207151000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000"
+              src="https://avatars3.githubusercontent.com/u/38966838?s=400&u=bed3cbddac22922017a360e93085f741b1d5fd66&v=4"
               alt="avatar"
               className="avatar-img"
             />
