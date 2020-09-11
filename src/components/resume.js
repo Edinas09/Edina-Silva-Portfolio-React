@@ -17,7 +17,7 @@ class Resume extends Component {
           <h4 style={{width: '75%', margin: 'auto',  color: 'grey', textAlign: 'center'}}>Full Stack Developer</h4>
           <hr style={{width: '75%', margin: 'auto',  borderTop: '2px dotted gray', width: '50%'}}/>
           <p style={{ width: '75%', margin: 'auto', paddingTop: '1em', textAlign: 'justify', paddingBottom: '1em'}}>
-          I’ve been working as Full Stack Developer at RDC Viagens company Where I’ve Been challenging myself with amazing splits. I already had opportunity to deliver the e-commerce page that was build in react. I delivered the environment in Ubuntu Linux with LAMP, Wordpress with Bedrock and The theme In Sage 9 where Has been developing with bootstrap and Laravel.
+          I’ve been working as Full Stack Developer at RDC Viagens company where I’ve been challenging myself with amazing splits. I already had opportunity to deliver an e-commerce page that was build in react. I set up the environment in Ubuntu Linux with LAMP, Wordpress with Bedrock and with theme in Sage 9, witch has being developing with Bootstrap and Laravel.
           </p>
           
 
